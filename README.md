@@ -15,4 +15,4 @@ Knapsack was designed to be a light-weight kit containing only the necessary plu
 + `npm run server`
 + navigate to `localhost:3000` in your browser
 + get started building your app in the `src` directory
-+ update and save source files and the knapsack web server will automatically compile and reload
++ update and save JavaScript source files and the knapsack web server will automatically compile and reload
