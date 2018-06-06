@@ -1,7 +1,7 @@
 # knapsack
-Knapsack is a lean and simple Nodejs development environment using Babel, Express, & Webpack. Perfect for a playground or slimmed-down app to get you started on your next project.
+Knapsack is a lean and simple Javascript starter app built with Nodejs, Babel, Express, & Webpack.
 
-Knapsack was designed to be a light-weight kit containing only the necessary plugins to transpile ES6 javascript, bundle it into one file, and serve it up via web server. I found this most useful for new js libraries I wanted to test out in a quick and easy-to-customize dev environment.  
+Knapsack was designed to be a light-weight kit containing only the necessary plugins to transpile, bundle, and serve up ES6 Javascript code. I found this most useful for creating small scale Node apps that required a web server for static files or for testing JS libraries in an easily customizable dev environment.  
 
 ### Features
 + [Babel](https://github.com/babel/babel/tree/master/packages/babel-cli) - `babel-preset-env` module for ES2017/ES2016 -> ES2015 javascript transpilation.
